@@ -2,10 +2,10 @@
 This data set taken from Kaggle data. 
 Here is the link: https://www.kaggle.com/datasets/nelgiriyewithana/global-weather-repository?select=GlobalWeatherRepository.csv
 
+------------------------------
+Also I made app. here is my app link: https://gozde133.shinyapps.io/Weather_data/
 
-Also I made app here is my app link: https://gozde133.shinyapps.io/Weather_data/
-
-
+-------------------------------
 
 About data set:
 country: Country of the weather data
